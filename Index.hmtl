@@ -21,7 +21,7 @@
         <nav>
           <ul class="mystic page">
             <li>
-                <h1>,img src="imagem2.png"></h1>
+                <h1><img src="imagem2.png"></h1>
             </li>
           </ul>
          
